@@ -48,3 +48,5 @@ O SPD (Sistema de Pagamento de Dízimo) é um aplicativo desktop completo e func
 ![demofull](demo.gif)
 
 Este sistema oferece uma solução completa para gerenciar membros e pagamentos de dízimos de forma eficiente e organizada. Para mais detalhes e configurações, entre em contacto comigo.
+## Versâo Demo
+Brevemente estará disponível uma versão demo do sistema aqui nesse repositório. 
