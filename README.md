@@ -12,7 +12,7 @@ O SPD (Sistema de Pagamento de Dízimo) é um aplicativo desktop completo e func
 ### Demo
 ![Login](login.gif)
 
-- **Descrição:** Acesso ao sistema através de uma chave de acesso e senha padrão ("SPD2023"). Recuperação de senha também está disponível.
+- **Descrição:** Acesso ao sistema através de uma senha padrão ("*****"). Recuperação de senha também está disponível.
 
 ### 2. Página Principal
 ![Página Principal](main.png)
@@ -45,20 +45,6 @@ O SPD (Sistema de Pagamento de Dízimo) é um aplicativo desktop completo e func
 
 - **Descrição:** Ao clicar no ícone de calendário, abre-se uma janela para registrar os pagamentos de dízimo do membro, permitindo uma visão rápida dos meses pagos.
 ## Demo
-![Login](Demo.gif)
+![demofull](demo.gif)
 
-## Instruções de Uso
-
-1. **Clone o Repositório:**
-   - Clone o repositório para sua máquina local.
-
-2. **Dependências:**
-   - Certifique-se de ter o ambiente C# configurado.
-
-3. **Executando o Sistema:**
-   - Abra a solução do projeto em um ambiente de desenvolvimento C# (ex.: Visual Studio).
-
-4. **Acesso Inicial:**
-   - Utilize a chave de acesso e a senha padrão (`SPD2023`) para realizar o login inicial.
-
-Este sistema oferece uma solução completa para gerenciar membros e pagamentos de dízimos de forma eficiente e organizada. Para mais detalhes e configurações, consulte a documentação no diretório do projeto.
+Este sistema oferece uma solução completa para gerenciar membros e pagamentos de dízimos de forma eficiente e organizada. Para mais detalhes e configurações, entre em contacto comigo.
