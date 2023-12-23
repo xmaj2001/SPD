@@ -10,7 +10,7 @@ O SPD (Sistema de Pagamento de Dízimo) é um aplicativo desktop completo e func
 ![Login](login.png)
 
 ### Demo
-![Login demo](login.gif)
+![Login](login.gif)
 
 - **Descrição:** Acesso ao sistema através de uma chave de acesso e senha padrão ("SPD2023"). Recuperação de senha também está disponível.
 
