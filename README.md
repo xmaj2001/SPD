@@ -10,7 +10,7 @@ O SPD (Sistema de Pagamento de Dízimo) é um aplicativo desktop completo e func
 ![Login](https://github.com/xmaj2001/SPD/raw/main/login.png)
 
 ### Demo
-![Login](login.gif)
+![Login](https://github.com/xmaj2001/SPD/raw/main/llogin.gif)
 
 - **Descrição:** Acesso ao sistema através de uma senha padrão ("*****"). Recuperação de senha também está disponível.
 
